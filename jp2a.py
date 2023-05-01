@@ -1,4 +1,6 @@
-import os,time,jp2a,sys
+import os
+import time
+import sys
 
 from time import sleep
 
